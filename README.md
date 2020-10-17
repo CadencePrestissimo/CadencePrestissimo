@@ -31,7 +31,5 @@
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Pavika Chaudhary's DEV Profile" height="60" width="60">
 </a>
 
-<a href="https://dev.to/cadenceprestissimo">
-  <i class="fab fa-dev" title="cadenceprestissimo's DEV Profile"></i>
-</a>
+
         
