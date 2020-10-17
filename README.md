@@ -30,3 +30,5 @@
 <a href="https://dev.to/cadenceprestissimo">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Pavika Chaudhary's DEV Profile" height="30" width="30">
 </a>
+
+[![Pavika Chaudhary's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/cadenceprestissimo)
