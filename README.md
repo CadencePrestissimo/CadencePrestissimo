@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-### Hi, I'm Pavika Chaudhary, a passionate learner.
+### Hi, I'm Pavika Chaudhary
 - 🔭 I’m a second year undergraduate from IIIT-A 😉
 - 🌱 I’m currently learning everything 🤣
 - 🥅 Started contributing to Open Source projects
