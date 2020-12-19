@@ -4,9 +4,8 @@
 
 ### Hi, I'm Pavika Chaudhary
 - 🔭 I’m a second year undergraduate from IIIT-A 😉
-- 🌱 I’m currently learning everything 🤣
 - 🥅 Started contributing to Open Source projects
-- ⚡ carpediam ::::....
+- ⚡ carpediam 
 
 
 <img src="https://github-readme-stats.vercel.app/api/?username=CadencePrestissimo&show_icons=true&theme=gotham" alt="github stats"/>
