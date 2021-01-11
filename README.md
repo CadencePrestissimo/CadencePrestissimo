@@ -2,9 +2,9 @@
 
 ### Hi there 👋
 
-### Hi, I'm Pavika Chaudhary
+### I'm Pavika Chaudhary
 - 🔭 I’m a second year undergraduate from IIIT-A 😉
-- 🥅 Started contributing to Open Source projects
+- 🥅 Started contributing to Open Source projects 
 - ⚡ carpediam 
 
 
