@@ -3,7 +3,7 @@
 ### Hi there 👋
 
 ### I'm Pavika Chaudhary
-- 🔭 I’m a second year undergraduate from IIIT-A 😉
+- 🔭 I’m a third year undergraduate from IIIT-A 😉
 - 🥅 Started contributing to Open Source projects 
 - ⚡ carpediam 
 
